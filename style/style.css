@@ -115,7 +115,7 @@ header{
     height: 12px;
     background: hsl(4, 64%, 49%);
     border-radius: 25px;
-    cursor: pointer;
+    cursor: not-allowed;
     transition: all 0.2s linear;
 }
 .theme.one .circle{
